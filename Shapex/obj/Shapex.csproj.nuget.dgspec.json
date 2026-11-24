@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Alex\\!Projects\\C#\\Shapex\\Shapex\\Shapex.csproj": {}
+    "C:\\Users\\Alex\\!Projects\\C#\\ShapexProject\\Shapex\\Shapex.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Alex\\!Projects\\C#\\Shapex\\Shapex\\Shapex.csproj": {
+    "C:\\Users\\Alex\\!Projects\\C#\\ShapexProject\\Shapex\\Shapex.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Alex\\!Projects\\C#\\Shapex\\Shapex\\Shapex.csproj",
+        "projectUniqueName": "C:\\Users\\Alex\\!Projects\\C#\\ShapexProject\\Shapex\\Shapex.csproj",
         "projectName": "Shapex",
-        "projectPath": "C:\\Users\\Alex\\!Projects\\C#\\Shapex\\Shapex\\Shapex.csproj",
+        "projectPath": "C:\\Users\\Alex\\!Projects\\C#\\ShapexProject\\Shapex\\Shapex.csproj",
         "packagesPath": "C:\\Users\\Alex\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Alex\\!Projects\\C#\\Shapex\\Shapex\\obj\\",
+        "outputPath": "C:\\Users\\Alex\\!Projects\\C#\\ShapexProject\\Shapex\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Alex\\AppData\\Roaming\\NuGet\\NuGet.Config",

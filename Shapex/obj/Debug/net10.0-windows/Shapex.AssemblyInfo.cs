@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("Shapex")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+4c02d0862093ed346102df710d31e8c4c53f39c2")]
 [assembly: System.Reflection.AssemblyProductAttribute("Shapex")]
 [assembly: System.Reflection.AssemblyTitleAttribute("Shapex")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
