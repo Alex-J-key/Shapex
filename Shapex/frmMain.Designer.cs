@@ -38,6 +38,7 @@
             Name = "frmMain";
             ShowIcon = false;
             Text = "Shapex";
+            Load += frmMain_Load;
             ResumeLayout(false);
         }
 
