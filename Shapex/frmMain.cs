@@ -9,7 +9,8 @@ namespace Shapex
 
         private void frmMain_Load(object sender, EventArgs e)
         {
-
+            
+            this.Text = "This is main form";
         }
     }
 }
