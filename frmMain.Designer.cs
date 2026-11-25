@@ -1,4 +1,4 @@
-﻿namespace Shapex
+﻿namespace ShapeTemplate
 {
     partial class frmMain
     {
@@ -32,13 +32,15 @@
             // 
             // frmMain
             // 
-            AutoScaleDimensions = new SizeF(8F, 20F);
+            AutoScaleDimensions = new SizeF(7F, 15F);
             AutoScaleMode = AutoScaleMode.Font;
             ClientSize = new Size(800, 450);
             Name = "frmMain";
-            ShowIcon = false;
             Text = "Shapex";
-            Load += frmMain_Load;
+            Load += Form1_Load;
+            KeyDown += Form1_KeyDown;
+            KeyPress += Form1_KeyPress;
+            KeyUp += Form1_KeyUp;
             ResumeLayout(false);
         }
 

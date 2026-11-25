@@ -1,4 +1,4 @@
-namespace Shapex
+namespace ShapeTemplate
 {
     internal static class Program
     {
